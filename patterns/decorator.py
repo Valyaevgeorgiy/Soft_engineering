@@ -65,3 +65,9 @@ student_registration = Progress(student_new, random.randint(50, 95), 'qwerty')
 
 student_registration.full_info()
 student_registration.get_points()
+
+# Привет, меня зовут Трофимов Сергей.
+# Мне 22, являюсь студентом с номером студенческого билета 221201.
+# Пользователь Трофимов Сергей успешно зарегестрирован!
+# Пароль: qwerty
+# Баллы: 62
